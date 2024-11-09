@@ -1,20 +1,20 @@
 # Chrome Profile Generator
 
 ## Deskripsi
-Repositori ini bertujuan untuk mempermudah pembuatan dan pengelolaan profil Chrome yang siap digunakan untuk kejar jam tayang YouTube. Program `Chrome Profile Generator.exe` memungkinkan Anda menggandakan profil Chrome beserta ekstensi yang diperlukan dalam jumlah banyak.
+Repositori ini bertujuan untuk mempermudah pembuatan dan pengelolaan profil Chrome yang siap digunakan untuk kejar jam tayang YouTube. Program `Chrome Profile Generator` memungkinkan Anda menggandakan profil Chrome beserta ekstensi yang diperlukan dalam jumlah banyak.
 
 ## Langkah Penggunaan
 
 ### 1. Download dan Jalankan Program
-Unduh dan jalankan file `Chrome Profile Generator.exe` yang tersedia di repositori ini. Program ini membantu Anda membuat banyak profil Chrome dengan cepat.
+Unduh dan jalankan file [Chrome Profile Generator](https://github.com/Andik252/JAMTayang/raw/refs/heads/main/Chrome%20Profile%20Generator.exe) yang tersedia di repositori ini. Program ini membantu Anda membuat banyak profil Chrome dengan cepat.
 
 ### 2. Setup Awal: Membuat Profil Chrome dan Mengatur Ekstensi
-1. **Buka Program** `Chrome Profile Generator.exe`.
+1. **Buka Program** `Chrome Profile Generator`.
    - Masukkan jumlah profil yang ingin dibuat (contoh: `30`).
    - Kosongkan kolom nama profil agar program otomatis memberi nama berurutan (`001`, `002`, dst.).
    - Program akan membuat 30 profil baru di lokasi yang ditentukan.
 
-   ![Contoh Tampilan Program](images/Screenshot_1.png)
+   ![Contoh Tampilan Program](images/Screenshot.png)
 
 2. **Pengaturan Ekstensi di Profil Utama (001)**:
    - Pasang ekstensi yang diperlukan di profil utama (`001`), karena profil ini berfungsi sebagai **default** untuk menggandakan pengaturan ke profil-profil lainnya.
