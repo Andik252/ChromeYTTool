@@ -18,17 +18,15 @@ Unduh dan jalankan file [Chrome Profile Generator](https://github.com/Andik252/J
 
 2. **Pengaturan Ekstensi di Profil Utama (001)**:
    - Pasang ekstensi yang diperlukan di profil utama (`001`), karena profil ini berfungsi sebagai **default** untuk menggandakan pengaturan ke profil-profil lainnya.
-   - Beberapa ekstensi yang harus diinstal antara lain:
-     - [YouTube Looper](https://chrome.google.com/webstore/detail/youtube-looper/id_extension)
-     - [VPN Robot](https://chrome.google.com/webstore/detail/vpn-robot/id_extension)
-     - [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon)
-     - 2
-     - 3
-     - 4
-     - 5
-     - 6
-     - 7
-     - 8
+   - Beberapa ekstensi yang harus diinstal antara lain:     
+     - 1 [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon)
+     - 2 [Spoof Timezone](https://chromewebstore.google.com/detail/spoof-timezone/kcabmhnajflfolhelachlflngdbfhboe)
+     - 3 [AdBlock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-pemblokir-iklan/gighmmpiobklfepjocnamgkkbiglidom)
+     - 4 [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+     - 5 [Random User-Agent](https://chromewebstore.google.com/detail/random-user-agent-switche/einpaelgookohagofgnnkcfjbkkgepnp)
+     - 6 [Looper for YouTube](https://chromewebstore.google.com/detail/looper-for-youtube/iggpfpnahkgpnindfkdncknoldgnccdg)
+     - 7 [YouTube Nonstop](https://chromewebstore.google.com/detail/autotube-youtube-nonstop/egobelhdffdoidcnhpgkngoghpiebial)
+     - 8 [History & Cache Cleaner](https://chromewebstore.google.com/detail/history-cache-cleaner/pooaemmkohlphkekccfajnbcokjlbehk)
    - Pastikan pengaturan ekstensi sudah sesuai untuk penggunaan yang optimal.
 
 ### 3. Menjalankan Script untuk Menggandakan Folder
