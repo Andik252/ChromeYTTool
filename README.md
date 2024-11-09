@@ -21,6 +21,14 @@ Unduh dan jalankan file [Chrome Profile Generator](https://github.com/Andik252/J
    - Beberapa ekstensi yang harus diinstal antara lain:
      - [YouTube Looper](https://chrome.google.com/webstore/detail/youtube-looper/id_extension)
      - [VPN Robot](https://chrome.google.com/webstore/detail/vpn-robot/id_extension)
+     - [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon)
+     - 2
+     - 3
+     - 4
+     - 5
+     - 6
+     - 7
+     - 8
    - Pastikan pengaturan ekstensi sudah sesuai untuk penggunaan yang optimal.
 
 ### 3. Menjalankan Script untuk Menggandakan Folder
