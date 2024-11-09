@@ -18,7 +18,7 @@ Unduh dan jalankan file [Chrome Profile Generator](https://github.com/Andik252/J
 
 2. **Pengaturan Ekstensi di Profil Utama (001)**:
    - Pasang ekstensi yang diperlukan di profil utama (`001`), karena profil ini berfungsi sebagai **default** untuk menggandakan pengaturan ke profil-profil lainnya.
-   - Beberapa ekstensi yang harus diinstal antara lain:     
+   - Beberapa ekstensi yang mungkin dibutuhkan :     
      - 1 [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon)
      - 2 [Spoof Timezone](https://chromewebstore.google.com/detail/spoof-timezone/kcabmhnajflfolhelachlflngdbfhboe)
      - 3 [AdBlock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-pemblokir-iklan/gighmmpiobklfepjocnamgkkbiglidom)
